@@ -1,1 +1,0 @@
-The VGG-19 model yields 98.66% as training accuracy, 99.53% as validation accuracy and 99.07% as testing accuracy.
