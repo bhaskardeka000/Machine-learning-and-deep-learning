@@ -1,0 +1,1 @@
+The classic CNN model yields 98.31% as training accuracy, 93.95% as validation accuracy and 96.75% as testing accuracy.
