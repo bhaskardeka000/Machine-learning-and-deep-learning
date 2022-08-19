@@ -1,1 +1,0 @@
-The ResNet-50 model yields 99.42% as training accuracy, 99.53% as validation accuracy and 99.53% as testing accuracy.
